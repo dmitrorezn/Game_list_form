@@ -21,5 +21,14 @@ namespace Game_list_form
         {
 
         }
+
+        
+
+        private void Rec_Graphics_Gpu_Clock_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        
     }
 }
